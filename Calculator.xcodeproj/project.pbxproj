@@ -12,6 +12,7 @@
 		47E145D21EC4DD1C004DB4B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47E145D01EC4DD1C004DB4B1 /* Main.storyboard */; };
 		47E145D41EC4DD1C004DB4B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47E145D31EC4DD1C004DB4B1 /* Assets.xcassets */; };
 		47E145D71EC4DD1C004DB4B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47E145D51EC4DD1C004DB4B1 /* LaunchScreen.storyboard */; };
+		47E145DF1EC50832004DB4B1 /* CalculationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E145DE1EC50832004DB4B1 /* CalculationDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		47E145D31EC4DD1C004DB4B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		47E145D61EC4DD1C004DB4B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47E145D81EC4DD1C004DB4B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47E145DE1EC50832004DB4B1 /* CalculationDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculationDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				47E145CC1EC4DD1B004DB4B1 /* AppDelegate.swift */,
 				47E145CE1EC4DD1B004DB4B1 /* ViewController.swift */,
 				47E145D01EC4DD1C004DB4B1 /* Main.storyboard */,
+				47E145DE1EC50832004DB4B1 /* CalculationDelegate.swift */,
 				47E145D31EC4DD1C004DB4B1 /* Assets.xcassets */,
 				47E145D51EC4DD1C004DB4B1 /* LaunchScreen.storyboard */,
 				47E145D81EC4DD1C004DB4B1 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				47E145CF1EC4DD1B004DB4B1 /* ViewController.swift in Sources */,
 				47E145CD1EC4DD1B004DB4B1 /* AppDelegate.swift in Sources */,
+				47E145DF1EC50832004DB4B1 /* CalculationDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
